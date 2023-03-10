@@ -1,5 +1,4 @@
-# AI-GFS
-
+![image info](Images/Deckblatt.png)
 # Table of Contents
 
 # 1. [Introduction](#1.Introduction)
@@ -300,28 +299,4 @@ The question that naturally arises is where we currently stand on this curve of 
 
 On the other hand, if we are still at the beginning of the curve, we can anticipate exponential growth and progress over the next few years. The potential for advancement and innovation is limitless, and it is difficult to imagine just how transformative the developments will be.
 
-It is essential for individuals and businesses to stay informed about the latest innovations and trends to take full advantage of the opportunities that lie ahead. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It is essential for individuals and businesses to stay informed about the latest innovations and trends to take full advantage of the opportunities that lie ahead.
